@@ -1,0 +1,3 @@
+101|Code Breakers|Lost Laboratory|4|35|2|41|FAST ESCAPE
+102|Puzzle Masters|Ancient Vault|5|43|1|46|ESCAPED
+103|Incomplete Record
